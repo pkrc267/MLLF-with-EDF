@@ -98,7 +98,7 @@ Input file is organised as follows:
 
 **void slackUpdation()** : updates slack time of the ready jobs<br><br>
 
-**arrivalsCheck() **: it adds job that arrives at or before the current time<br><br>
+**arrivalsCheck()**: it adds job that arrives at or before the current time<br><br>
 
 > getters.c<br><br>
 
@@ -112,7 +112,7 @@ Input file is organised as follows:
 
 **int getMinimumLaxity_procs()** : It returns minimum laxity/slack value job index.<br><br>
 
-**int getNextEDFJob() **: It returns index of job having least deadline.<br><br>
+**int getNextEDFJob()**: It returns index of job having least deadline.<br><br>
 
 **float getNextArrival()** : It returns the next arrival time of the task i.e. when a new job arrives.<br><br>
 
