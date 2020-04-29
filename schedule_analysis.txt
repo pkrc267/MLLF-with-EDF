@@ -1,0 +1,7 @@
+Preemptions : 0 Context Switches : 7
+Task : 0 ARJ : 0.000000
+Task : 0 RRJ : 0.000000
+Task : 1 ARJ : 0.840000
+Task : 1 RRJ : 0.840000
+Task : 2 ARJ : 0.599999
+Task : 2 RRJ : 0.599999
