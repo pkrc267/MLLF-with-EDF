@@ -92,9 +92,9 @@ Input file is organised as follows:
 
 > scheduler_helper.c<br><br>
 
-**task* initializeTaskAttributes()** : ionitializes the tasks and makes a taskset<br><br>
+__task* initializeTaskAttributes()__ : ionitializes the tasks and makes a taskset<br><br>
 
-**job* jobInitialization()** : initializes parameters of the job that arrives in the system<br><br>
+__job* jobInitialization()__ : initializes parameters of the job that arrives in the system<br><br>
 
 **void slackUpdation()** : updates slack time of the ready jobs<br><br>
 
